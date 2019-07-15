@@ -1,3 +1,5 @@
 # Lab
 
-Wiki for disk images in the resources account
+## [Wiki](https://github.com/UMD-ACES/Lab/wiki)
+
+* Disk images in resources account
